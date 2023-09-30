@@ -10,3 +10,16 @@
     background-image: url("/images/server.jpg");
     background-repeat: no-repeat;
 }*/
+
+#source_top {
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+#source_crédits {
+    font-family: 'Roboto', sans-serif;
+}
+
+#footer {
+    font-family: 'Fira Sans', sans-serif;
+    color: #7289da
+}
