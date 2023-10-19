@@ -23,6 +23,10 @@
     font-family: 'Fira Sans', sans-serif;
 }
 
+#intro_osint {
+    font-family: 'Comfortaa', sans-serif;
+}
+
 #secu_osint {
     font-family: 'Roboto Slab', sans-serif;
 }
@@ -37,6 +41,14 @@
 
 #tableau {
     font-family: 'Comfortaa', sans-serif;
+}
+
+#intro_commerc {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#commerc {
+    font-family: 'Roboto Slab', sans-serif;
 }
 
 h2 {
