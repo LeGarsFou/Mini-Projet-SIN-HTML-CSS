@@ -6,11 +6,6 @@
     font-family: 'Comfortaa', sans-serif;
 }
 
-/*body {
-    background-image: url("/images/server.jpg");
-    background-repeat: no-repeat;
-}*/
-
 #source_top {
     font-family: 'Roboto Slab', sans-serif;
 }
@@ -22,4 +17,36 @@
 #footer {
     font-family: 'Fira Sans', sans-serif;
     color: #7289da
+}
+
+#secu_intro {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#secu_osint {
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+#intro_stockage {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#moyen_stockage {
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+#tableau {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 27.5px;
+}
+
+h4 {
+    font-size: 22px;
 }
