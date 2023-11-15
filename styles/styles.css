@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'Handlee';
+    src: url("../fonts/Handlee-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Lilita One';
+    src: url("../fonts/LilitaOne-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat Alt1';
+    src: url("../fonts/MontserratAlt1-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url("../fonts/Quicksand-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'Vina Sans';
+    src: url("../fonts/VinaSans-Regular.ttf");
+}
+
+a {
+    padding: 5px;
+    text-decoration: none;
+}
+
+a#top {
+    color: black;
+}
+
+html, body {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    font: 125% arial, sans-serif;
+    text-align: center
+}
+
+p {
+    margin: 0 10px 10px
+}
+
+dl {
+    font-family: 'Quicksand', sans-serif;
+}
+
+dt {
+    margin: 0 10px 10px
+}
+
+ul {
+    font-family: 'Quicksand', sans-serif;
+}
+
+figcaption {
+    font-family: 'Vina Sans', sans-serif;
+}
+
+div#header {
+    background-color: #F3F2ED;
+    color: black;
+}
+
+div#header h1 {
+    height: 80px;
+    line-height: 80px;
+    margin: 0;
+    padding-left: 10px;
+    font-family: 'Handlee', cursive;
+}
+
+div#container {
+    text-align: left
+}
+
+div#content p {
+    line-height: 1.4;
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+}
+
+div#content strong {
+    font-family: 'Lilita One', sans-serif;
+    font-size: 130%;
+}
+
+div#navigation {
+    background: #F6F0E0;
+    font-family: 'Montserrat Alt1', sans-serif;
+}
+
+div#navigation ul {
+    margin: 15px 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+div#navigation li {
+    margin-bottom: 5px;
+}
+
+div#sources {
+    background: #CCC8B3;
+    margin: 0;
+    float: left;
+    width: 1000px
+}
+
+div#footer {
+    background: #BFBD93;
+}
+
+div#footer p {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+div#container {
+    width: 1000px;
+    margin: 0 auto
+}
+
+div#content {
+    float: left;
+    width: 700px
+}
+
+div#navigation {
+    float: right;
+    width: 200px
+}
+
+div#footer {
+    clear: both;
+    width: 100%
+}
+
+.tftable {
+    font-size: 12px;
+    color: #333333;
+    width: 100%;
+    border-width: 1px;
+    border-color: #a9a9a9;
+    border-collapse: collapse;
+}
+
+.tftable th {
+    font-size: 20px;
+    background-color: #b8b8b8;
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #a9a9a9;
+    text-align: left;
+}
+
+.tftable tr {
+    background-color: #cdcdcd;
+}
+
+.tftable td {
+    font-size: 20px;
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #a9a9a9;
+}
